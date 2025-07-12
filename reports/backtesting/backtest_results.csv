@@ -1,0 +1,6 @@
+model,total_pnl,total_trades,winning_trades,losing_trades,win_rate,final_capital,return_pct
+all_events,0.0,0,0,0,0,100000.0,0.0
+earnings_releases_and_operating_results,0.0,0,0,0,0,100000.0,0.0
+regulatory_filings,0.0,0,0,0,0,100000.0,0.0
+product_services_announcement,0.0,0,0,0,0,100000.0,0.0
+partnerships,0.0,0,0,0,0,100000.0,0.0

@@ -1,0 +1,14 @@
+Metric,Value,Description
+Backtest_Date,2025-07-11,Date when backtest was executed
+Initial_Capital_USD,100000.0,Starting capital for the backtest
+Date_Range_Start,2024-01-01,Start date of the backtest period
+Date_Range_End,2025-07-11,End date of the backtest period
+Total_Models_Tested,5,Number of ML models tested
+News_Articles_Analyzed,1,Total news articles in the dataset
+Price_Records_Available,1,Total price data records available
+Database_File,finespresso.db,Source database file
+Best_Performing_Model,all_events,Model with highest return percentage
+Total_Combined_PnL_USD,0.0,Sum of PnL across all models
+Average_Return_Percent,0.0,Average return across all models
+Data_Quality_Note,Limited test data available,Current status of the dataset
+
